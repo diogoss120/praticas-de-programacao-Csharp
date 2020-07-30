@@ -1,0 +1,13 @@
+B:\Projetos\AplicativoDeConsole\AplicativoDeConsole\bin\Debug\netcoreapp3.1\AplicativoDeConsole.exe
+B:\Projetos\AplicativoDeConsole\AplicativoDeConsole\bin\Debug\netcoreapp3.1\AplicativoDeConsole.deps.json
+B:\Projetos\AplicativoDeConsole\AplicativoDeConsole\bin\Debug\netcoreapp3.1\AplicativoDeConsole.runtimeconfig.json
+B:\Projetos\AplicativoDeConsole\AplicativoDeConsole\bin\Debug\netcoreapp3.1\AplicativoDeConsole.runtimeconfig.dev.json
+B:\Projetos\AplicativoDeConsole\AplicativoDeConsole\bin\Debug\netcoreapp3.1\AplicativoDeConsole.dll
+B:\Projetos\AplicativoDeConsole\AplicativoDeConsole\bin\Debug\netcoreapp3.1\AplicativoDeConsole.pdb
+B:\Projetos\AplicativoDeConsole\AplicativoDeConsole\obj\Debug\netcoreapp3.1\AplicativoDeConsole.csproj.CoreCompileInputs.cache
+B:\Projetos\AplicativoDeConsole\AplicativoDeConsole\obj\Debug\netcoreapp3.1\AplicativoDeConsole.AssemblyInfoInputs.cache
+B:\Projetos\AplicativoDeConsole\AplicativoDeConsole\obj\Debug\netcoreapp3.1\AplicativoDeConsole.AssemblyInfo.cs
+B:\Projetos\AplicativoDeConsole\AplicativoDeConsole\obj\Debug\netcoreapp3.1\AplicativoDeConsole.dll
+B:\Projetos\AplicativoDeConsole\AplicativoDeConsole\obj\Debug\netcoreapp3.1\AplicativoDeConsole.pdb
+B:\Projetos\AplicativoDeConsole\AplicativoDeConsole\obj\Debug\netcoreapp3.1\AplicativoDeConsole.genruntimeconfig.cache
+B:\Projetos\AplicativoDeConsole\AplicativoDeConsole\obj\Debug\netcoreapp3.1\AplicativoDeConsole.csprojAssemblyReference.cache
