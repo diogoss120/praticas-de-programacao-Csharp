@@ -1,0 +1,7 @@
+C:\Users\ddiio\Desktop\Curso C#\Sessão 14 Interfaces\InterfaceExercicio\InterfaceExercicio\bin\Debug\InterfaceExercicio.exe.config
+C:\Users\ddiio\Desktop\Curso C#\Sessão 14 Interfaces\InterfaceExercicio\InterfaceExercicio\bin\Debug\InterfaceExercicio.exe
+C:\Users\ddiio\Desktop\Curso C#\Sessão 14 Interfaces\InterfaceExercicio\InterfaceExercicio\bin\Debug\InterfaceExercicio.pdb
+C:\Users\ddiio\Desktop\Curso C#\Sessão 14 Interfaces\InterfaceExercicio\InterfaceExercicio\obj\Debug\InterfaceExercicio.csprojAssemblyReference.cache
+C:\Users\ddiio\Desktop\Curso C#\Sessão 14 Interfaces\InterfaceExercicio\InterfaceExercicio\obj\Debug\InterfaceExercicio.csproj.CoreCompileInputs.cache
+C:\Users\ddiio\Desktop\Curso C#\Sessão 14 Interfaces\InterfaceExercicio\InterfaceExercicio\obj\Debug\InterfaceExercicio.exe
+C:\Users\ddiio\Desktop\Curso C#\Sessão 14 Interfaces\InterfaceExercicio\InterfaceExercicio\obj\Debug\InterfaceExercicio.pdb
