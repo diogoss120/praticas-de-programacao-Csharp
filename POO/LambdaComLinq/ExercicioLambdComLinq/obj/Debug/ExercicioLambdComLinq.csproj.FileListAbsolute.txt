@@ -1,0 +1,7 @@
+C:\Users\ddiio\Desktop\Curso C#\Sessão 17 Lambda, Limq e Delegates\ExercicioLambdComLinq\ExercicioLambdComLinq\bin\Debug\ExercicioLambdComLinq.exe.config
+C:\Users\ddiio\Desktop\Curso C#\Sessão 17 Lambda, Limq e Delegates\ExercicioLambdComLinq\ExercicioLambdComLinq\bin\Debug\ExercicioLambdComLinq.exe
+C:\Users\ddiio\Desktop\Curso C#\Sessão 17 Lambda, Limq e Delegates\ExercicioLambdComLinq\ExercicioLambdComLinq\bin\Debug\ExercicioLambdComLinq.pdb
+C:\Users\ddiio\Desktop\Curso C#\Sessão 17 Lambda, Limq e Delegates\ExercicioLambdComLinq\ExercicioLambdComLinq\obj\Debug\ExercicioLambdComLinq.csprojAssemblyReference.cache
+C:\Users\ddiio\Desktop\Curso C#\Sessão 17 Lambda, Limq e Delegates\ExercicioLambdComLinq\ExercicioLambdComLinq\obj\Debug\ExercicioLambdComLinq.csproj.CoreCompileInputs.cache
+C:\Users\ddiio\Desktop\Curso C#\Sessão 17 Lambda, Limq e Delegates\ExercicioLambdComLinq\ExercicioLambdComLinq\obj\Debug\ExercicioLambdComLinq.exe
+C:\Users\ddiio\Desktop\Curso C#\Sessão 17 Lambda, Limq e Delegates\ExercicioLambdComLinq\ExercicioLambdComLinq\obj\Debug\ExercicioLambdComLinq.pdb
